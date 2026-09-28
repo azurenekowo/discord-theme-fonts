@@ -1,28 +1,28 @@
 {
   "spec": 1,
   "name": "Geist",
-  "previewText": "Geist Sans for Discord UI and Geist Mono for monospaced text",
+  "previewText": "Geist Sans + Geist Mono",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
+    "ABCGintoNord-ExtraBold": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-UltraBlack.ttf?raw=1",
 
-    "ggsans-Bold": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-BoldItalic": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-ExtraBold": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-ExtraBoldItalic": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-Medium": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-MediumItalic": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-Normal": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-NormalItalic": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-Semibold": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "ggsans-SemiboldItalic": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
+    "ggsans-Bold": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Bold.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-UltraBlack.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-UltraBlack.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Medium.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-SemiBold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-SemiBold.ttf?raw=1",
 
-    "NotoSans-Bold": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "NotoSans-ExtraBold": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "NotoSans-Medium": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "NotoSans-Normal": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "NotoSans-NormalItalic": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
-    "NotoSans-Semibold": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-sans/Geist-Variable.woff2?raw=1",
+    "NotoSans-Bold": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-UltraBlack.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/vercel/geist-font/raw/main/fonts/Geist/ttf/Geist-SemiBold.ttf?raw=1",
 
-    "ggmono-Normal": "https://github.com/vercel/geist-font/raw/main/packages/next/dist/fonts/geist-mono/GeistMono-Variable.woff2?raw=1"
+    "ggmono-Normal": "https://github.com/vercel/geist-font/raw/main/fonts/GeistMono/ttf/GeistMono-Regular.ttf?raw=1"
   }
 }
